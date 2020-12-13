@@ -1,2 +1,2 @@
-# [watchdogs] (https://navruz-farvardin.github.io/uber.github.io/src/)
+# [watchdogs] (https://navruz-farvardin.github.io/watchdogs/src/)
 Watchdogs testing task
